@@ -1,4 +1,4 @@
-public class pattern4 {
+public class pattern04 {
     public static void main(String[] args)
     {
         int i,j;
